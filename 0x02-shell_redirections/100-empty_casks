@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -empty | rev | cut -d '/'-f 1 | rev
+=======
+find . -empty | rev | cut -d '/' -f 1 | rev
+>>>>>>> 9894640161f0cc54d361cea0df29f97d7869b213
