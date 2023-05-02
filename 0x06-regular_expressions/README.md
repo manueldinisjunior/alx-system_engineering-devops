@@ -1,9 +1,9 @@
 # 0x06. Regular expression 
 
-## Resource
+## Resources Used
 
 <details>
-<summary>Regular Expression</summary><br>
+<summary>Regular Expressions</summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mkcB0Yk1/image.png' border='0' alt='image'/></a>
 <ul>
   <li>Links from screenshot
@@ -23,7 +23,7 @@
 - [Use a regular expression against a problem: now you have 2 problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 - [Learning Regular Expressions with simple, interactive exercises](https://regexone.com/)
 
-## Tasks
+## The Tasks
 
 <details>
 <summary><a href="./0-simply_match_school.rb">0. Simply matching School</a></summary><br>
