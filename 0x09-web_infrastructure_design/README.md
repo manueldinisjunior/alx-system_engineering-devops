@@ -15,6 +15,3 @@
 - [What is a firewall](https://www.webopedia.com/definitions/firewall/)
 - [Load Balancing Algorithms and Techniques](https://kemptechnologies.com/load-balancer/load-balancing-algorithms-techniques/)
 - [Active/Passive vs. Active/Active](https://kemptechnologies.com/fr/white-papers/unfog-confusion-active-passive-activeactive-load-balancing/)
-
-## Tasks
-
