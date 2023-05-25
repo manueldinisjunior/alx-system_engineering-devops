@@ -1,5 +1,7 @@
 # 0x09. Web infrastructure design 
 
+![alx-logo](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 ## Resource
 
 - [Web Infrastructure](https://youtu.be/lQNEW76KdYg)
