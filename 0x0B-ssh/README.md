@@ -13,9 +13,9 @@
 
   <tbody>
       <tr>
-        <td>59637-web-01</td>
+        <td>204581-web-01</td>
         <td><code>ubuntu</code></td>
-        <td><code>52.23.212.37</code></td>
+        <td><code>100.26.238.37</code></td>
         <td>running</td>
         <td>
           <div class="btn-group">
