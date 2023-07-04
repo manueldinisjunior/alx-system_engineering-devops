@@ -1,10 +1,30 @@
-# Load Balancer DevOps Repository
+# Load balancer :computer:
 
-![alx](https://user-images.githubusercontent.com/110563322/185378867-15f6a19c-a417-4012-9a69-ad8dc252d295.jpeg)
+In this project, I continued to build up the configuration of the web server
+issued in project 0x0B. I was issued two additional servers, one to replicate
+the Nginx configuration of my original server.
 
-# This is My Load Balancer Repo
+## Tasks :page_with_curl:
 
-![alxx](https://user-images.githubusercontent.com/110563322/185378889-8d6595c4-b441-4a6d-8700-4c0043886cdf.jpg)
+* **0. Double the number of webservers**
+  * [0-custom_http_response_header](./0-custom_http_response-header): Bash
+  script that installs and configures Nginx on a server with a custom HTTP
+  response header.
+    * The name of the HTTP header is `X-Served-By`.
+    * The value of the HTTP header is the hostname of the server.
+
+* **1. Install your load balancer**
+  * [1-install_load_balancer](./1-install_load_balancer): Bash script that
+  installs and configures HAproxy version 1.5 on a server.
+    * Enables management via the init script.
+    * Requests are distributed using a round-robin algorithm.
+
+## Authors :black_nib:
+**Manuel Dinis Júnior**
+
+## Resources
+****
+<a href="https://youtu.be/C2NLPQTvO9M" target="blank"><img align="center" src="/>Load Balancer</a>
 
 ---
 
