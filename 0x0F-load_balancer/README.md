@@ -19,12 +19,9 @@ the Nginx configuration of my original server.
     * Enables management via the init script.
     * Requests are distributed using a round-robin algorithm.
 
-## Authors :black_nib:
-**Manuel Dinis Júnior**
-
 ## Resources
 ****
-<a href="https://youtu.be/C2NLPQTvO9M" target="blank"><img align="center" src="/>Load Balancer</a>
+<a href="https://youtu.be/C2NLPQTvO9M" target="blank">Load Balancer</a>
 
 ---
 
