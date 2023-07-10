@@ -26,3 +26,15 @@
 <img src="https://i.imgur.com/R8R3sqC.png" />
 
 </details>
+
+
+
+<details>
+<summary><a href="./1-what_happen_when_diagram">2. To Contribute</a></summary><br>
+
+<a href='[https://postimages.org/](https://github.com/manueldinisjunior/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/0-blog_post)' target='_blank'><img src='https://i.postimg.cc/52jxys2W/image.png' border='0' alt='image'/></a>
+
+<img src="https://i.imgur.com/i9ivkdo.png" />
+<img src="https://i.imgur.com/R8R3sqC.png" />
+
+</details>
