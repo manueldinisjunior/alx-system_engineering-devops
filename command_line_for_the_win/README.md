@@ -9,7 +9,7 @@ Command line for the win
 Background Context
 ------------------
 
-[CMD CHALLENGE](https://alx-intranet.hbtn.io/rltoken/a83_NOBEtXgFr1Yqej0HYA "CMD CHALLENGE") is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It's a good training to improve your command line skills!
+[CMD CHALLENGE](https://alx-intranet.hbtn.io/rltoken/a83_NOBEtXgFr1Yqej0HYA "CMD CHALLENGE") is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It's good training to improve your command line skills!
 
 **This project is NOT mandatory** at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won't get hurt if you don't do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
 
@@ -42,7 +42,7 @@ Complete the first 9 tasks.
 
 **Repo:**
 
--   GitHub repository: `alx-system_engineering-devops`
+-   GitHub repository: `alx-system_engineering-DevOps`
 -   Directory: `command_line_for_the_win`
 -   File: `0-first_9_tasks.jpg,0-first_9_tasks.png`
 
@@ -70,7 +70,7 @@ Complete the 9 next tasks, getting to 27 total.
 
 **Repo:**
 
--   GitHub repository: `alx-system_engineering-devops`
+-   GitHub repository: `alx-system_engineering-DevOps`
 -   Directory: `command_line_for_the_win`
 -   File: `2-next_9_tasks.jpg,2-next_9_tasks.png`
 
